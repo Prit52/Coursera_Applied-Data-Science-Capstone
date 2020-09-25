@@ -1,0 +1,5 @@
+Algorithm,Accuracy_Score
+Random Forest,0.7346508910793332
+ K-Nearest Neighbors,0.7389458440981421
+Decision Trees,0.7540686863367836
+Logistic Regression,0.7557636294821373
